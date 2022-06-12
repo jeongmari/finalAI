@@ -10,8 +10,8 @@
 
 4.[데이터셋](#p4)
 
-![](https://github.com/jeongmari/finalAI/emotions & gender test img/happy.PNG)
-![](https://github.com/jeongmari/finalAI/emotions & gender test img/surprised.PNG)
+![](https://github.com/jeongmari/finalAI/emotions_&_gender_test_img/happy.PNG)
+![](https://github.com/jeongmari/finalAI/emotions&gender test img/surprised.PNG)
 
 <a id="p1"></a> 
 # 설명:
