@@ -20,13 +20,12 @@ pip install -r (모듈 이름).txt
 
 3. 사용법
 
-주피터 open-cv 개발환경에서 실행
-파이썬 finalSuccess.ipynb
+주피터 open-cv 개발환경에서 실행: finalSuccess.ipynb
 
 
 4. 데이터 세트
 
-얼굴 감지 모델 haarcascade_frontalface_default.xml
+얼굴 감지 모델 haarcascade_frontalface_default.xml,
 감정 모델 _mini_XCEPTION.102-0.66.hdf5
 
 참고 코드
