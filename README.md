@@ -10,8 +10,8 @@
 
 4.[데이터셋](#p4)
 
-![initial](https://github.com/jeongmari/finalAI/testImg/happy.PNG)
-![initial](https://github.com/jeongmari/finalAI/testImg/surprised.PNG)
+![happy](https://user-images.githubusercontent.com/96713929/173236620-2ed47079-dbc6-4c58-b9a8-a8da58473cf9.png)
+![surprised](https://user-images.githubusercontent.com/96713929/173236654-bfdcd666-5484-4c91-8cd2-4ea0be080dcf.png)
 
 <a id="p1"></a> 
 # 설명:
